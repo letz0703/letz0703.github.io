@@ -9,7 +9,7 @@ export const router = createBrowserRouter([
     element: <RootLayout />,
     children: [
       {index: true, element: <Home />},
-      {path: "/0909", element: <Redirect />}
+      {path: "/0909", element: <Navigate to="wizbox.shop" />}
     ]
   }
 ])
