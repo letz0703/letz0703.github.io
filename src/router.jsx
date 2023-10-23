@@ -11,11 +11,7 @@ export const router = createBrowserRouter([
       {index: true, element: <Home />},
       {
         path: "0909",
-        element: (
-          <div>
-            <Navigate to="https://wizbox.shop" />
-          </div>
-        )
+        redirectTo: "https://letz0703.github.io/0909"
       }
       //{path: "0909", element: window.open("https://wizbox.shop", "_blank")}
     ]
