@@ -1,4 +1,4 @@
-import {createBrowserRouter} from "react-router-dom"
+import {Navigate, createBrowserRouter} from "react-router-dom"
 import {RootLayout} from "./layouts/RootLayout"
 import {Home} from "./pages/Home"
 import {Redirect} from "./pages/Redirect"
