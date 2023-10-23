@@ -1,7 +1,7 @@
 import {Navigate, createBrowserRouter} from "react-router-dom"
 import {RootLayout} from "./layouts/RootLayout"
 import {Home} from "./pages/Home"
-import {Redirect} from "./pages/Redirect"
+//import {Redirect} from "./pages/Redirect"
 
 export const router = createBrowserRouter([
   {
