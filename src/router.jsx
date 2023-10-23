@@ -13,7 +13,7 @@ export const router = createBrowserRouter([
         path: "0909",
         element: (
           <div>
-            <Navigate to="https://github.com/0909" />
+            <Navigate to="https://wizbox.shop" />
           </div>
         )
       }
