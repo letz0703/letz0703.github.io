@@ -1,7 +1,7 @@
 ---
 layout: 0909_wrapper
 title: icanmart
-permalink: /icanmart
+permalink: /ic
 ---
 
 i.camart
