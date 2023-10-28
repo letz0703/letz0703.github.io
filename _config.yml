@@ -39,9 +39,14 @@ defaults:
   - scope:
       path: ""
       type: "post"
-    value:
+    values:
       layout: "post"
       title: "especialist"
+
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
